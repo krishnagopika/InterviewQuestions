@@ -127,6 +127,21 @@ Ans:
     }
 
 ``` 
+    
+7. Passesnger list is stored in the format of an object of Passenger with follwoung fields, there is a medical emergency, write a program to filterout the passengers with doctor as profession.
+
+``` java
+
+class Passenger{
+    String FirstName;
+    String LastName;
+    int Age;
+    String profession;
+    String SeatNo;
+
+}
+
+```
 
 
 
