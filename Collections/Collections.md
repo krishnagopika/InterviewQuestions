@@ -1,8 +1,8 @@
-1. There is a `Map` with keys as Restraunt names and values as an `ArrayList` of menu items and a user wants to order cream brule. Write a program to filter and return the Restaurant names that have cream brule in their menu?
+1. There is a `Map` with keys as Restaurant names and values as an `ArrayList` of menu items and a user wants to order Cream Brule. Write a program to filter and return the Restaurant names that have Cream Brule on their menu.
 
-2. There is `HashMap` with keys as Employee name and values as Employee contribution which is a number. Each employee contibution is evaluated once a month and new employees may be added at the start of the month. Write a program to print the leader board of empoyees and their contribution after 6 months.
+2. There is `HashMap` with keys as Employee name and values as Employee contribution which is a number. Each employee's contribution is evaluated once a month and new employees may be added at the start of the month. Write a program to print the leaderboard of employees and their contributions after 6 months.
 
-3. The following code has a list of key and value pair of cards and the count, John is not sure if he added king of spades with count as 1, help john in adding the king of spades as count 1 to the deck, remenber that a deck can not contain duplicate cards? Fill the empty lines to help John?
+3. The following code has a list of key and value pair of cards and the count, John is not sure if he added king of spades with count as 1, help john in adding the king of spades as count 1 to the deck, remember that a deck can not contain duplicate cards? Fill the empty lines to help John.
 
 ``` java
 public class DeckOfCards {
@@ -19,7 +19,7 @@ public class DeckOfCards {
 Ans: line 1: HashMap<String,Integer> Deck = new HashMap<>();
      line 2: Deck.put("King of Spades",1);
 
-4. Cadbury wants to name their new choclate after the most common employee name in the company write a code to find out the most common name.
+4. Cadbury wants to name their new chocolate after the most common employee name in the company write a code to find out the most common name.
 
 sol:
 
@@ -82,7 +82,7 @@ Ans:
 - line 1: ListIterator<String> l = Names.listIterator(); l.hasNext(); 
 - line 2: l.next(); 
 
-6. How to ignore case when sorting elements using `Treeset`?
+6. How to ignore cases when sorting elements using `Treeset`?
 
 
 
@@ -128,7 +128,7 @@ Ans:
 
 ``` 
     
-7. Passesnger list is stored in the format of an object of Passenger with follwoung fields, there is a medical emergency, write a program to filterout the passengers with doctor as profession.
+7. Passenger list is stored in the format of an object of Passenger with the following fields, there is a medical emergency, write a program to filter out the passengers with the doctor as a profession.
 
 ``` java
 
