@@ -138,7 +138,6 @@ class Passenger{
     int Age;
     String profession;
     String SeatNo;
-
 }
 
 ```
