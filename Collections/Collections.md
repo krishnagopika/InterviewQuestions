@@ -84,7 +84,7 @@ Ans:
 
 6. How to ignore case when sorting elements using `Treeset`?
 
-ans: 
+
 
 ``` java
 import java.util.*;
