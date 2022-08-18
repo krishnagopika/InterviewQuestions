@@ -161,6 +161,19 @@ class Passenger{
 12. Is it possible to write a lambda expression withput ({})?
 
 13. Is it mandatory to embend parameters of a lambda expression in ()?
+    
+14. Can you serealize a lambda expression?
+
+15. When do we create a deafult method in an interface?
+
+16. When do we create a static method in an interface?
+
+17. Is it mandatory to override default methods of an Interface?
+
+18. Declare an annotation type Book, with book name, author name, publishing data, genre as elemnts.
+
+19. Is it possible to repeat an annotation? Justify your answer with an example.
+
 
 
 
