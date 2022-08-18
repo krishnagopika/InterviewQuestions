@@ -150,20 +150,7 @@ class Passenger{
 
 ```
 
-Ans: 
 
-``` java
-
-ArrayList<Passenger> al = new ArrayList<>();
-        al.add(new Passenger("Krishna","Urlaganti",21,"Doctor","L1"));
-        al.add(new Passenger("Sathya","V",30,"Quality Analyst","L2"));
-        al.add(new Passenger("Gayathri","M",21,"Trainer","L3"));
-        List<Passenger> doctors = al.stream().filter(p -> p.getProfession().equals("Doctor")).collect(Collectors.toList());
-        for( Passenger p: doctors){
-            System.out.println(p.getFirstName());
-        }
-
-```
 
 
 
