@@ -273,6 +273,7 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 
 13. @NgModule Decorator
 
+<details>
 <summary> <b>Show Answer</b></summary>
 
 <blockquote>
@@ -516,10 +517,13 @@ Here,
 - Routing guards used to check whether the user should grant or remove access to certain parts of the navigation.
 - There are 4 different interfaces act as routing guards:
 
-	- `CanActivate `- decides if the route can be activated.
-        - `CanActivateChild`- decides if children of a route can be activated.
-	- `CanLoad`- decides if a route can be loaded.
-	- `CanDeactivate`- decides if the user can leave a route.
+  * `CanActivate `- decides if the route can be activated.
+	
+  * `CanActivateChild`- decides if children of a route can be activated.
+	
+  * `CanLoad`- decides if a route can be loaded.
+	
+  * `CanDeactivate`- decides if the user can leave a route.
 
 
 
@@ -676,16 +680,17 @@ export class UserserviceService {
 - A pipe takes in data as input and transforms it to the desired output.
 - In app.component.html, we have built in pipes and custom pipes.
 - **Some of the built-in pipes are:**
-       -**Date pipe** - Used for formatting dates.
-o	Decimal pipe - Used for formatting numbers
-o	Currency pipe - Used for formatting currencies
-o	Lowercase pipe - Used for converting strings into lowercase.
-o	Uppercase pipe - Used for converting strings into uppercase.
+   * **Date pipe** - Used for formatting dates.
+   * **Decimal pipe** - Used for formatting numbers
+   * **Currency pipe** - Used for formatting currencies
+   * **Lowercase pipe** - Used for converting strings into lowercase.
+   * **Uppercase pipe** - Used for converting strings into uppercase.
 
 
 
 </blockquote>
 
 </details>
+
   
 
