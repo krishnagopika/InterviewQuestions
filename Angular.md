@@ -193,7 +193,7 @@
 	    <div *ngSwitchCase="'o'"> Entered o!! Word: Orange</div>
 	    <div *ngSwitchCase="'u'"> Entered u!! Word: Umberalla</div>
 	    <div *ngSwitchDefault> You Entered Constant </div>
-	</div>
+</div>
 
 
     
@@ -329,6 +329,7 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 <details>
 <summary> <b>Show Answer</b></summary>
 <blockquote>
+	
 - We are required to import and setup `HttpClient` service in Angular project to consume REST APIs.
 - To work with `HttpClient` service in Angular, you need to import the `HttpClientModule` in app.module.ts file. 
 - Then inject `HttpClient` service in constructor method after that you can hit the remote server via HTTP’s POST, GET, PUT and DELETE methods.
@@ -748,8 +749,9 @@ export class UserserviceService {
    * **Lowercase pipe** - Used for converting strings into lowercase.
    * **Uppercase pipe** - Used for converting strings into uppercase.
 	
-  ```html
-   <h2>Built-in Pipes</h2>
+```html
+	
+<h2>Built-in Pipes</h2>
 <li>{{"Pipes"}} </li>
 <li>{{"Pipes" | uppercase}}</li>
 <li>{{"Pipes" | lowercase}} </li>
@@ -773,6 +775,7 @@ export class UserserviceService {
 - In `firstChar.pipe.ts`,
 
 ```ts
+	
 import { Pipe, PipeTransform } from '@angular/core';
  
 @Pipe({
