@@ -274,6 +274,7 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 13. @NgModule Decorator
 
 <summary> <b>Show Answer</b></summary>
+
 <blockquote>
 
 - `@NgModule` takes the below metadata to launch the application:
@@ -288,10 +289,11 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 
 
 </blockquote>
+</details>
 
 14.	How to consume API using Angular?
 
-</details>
+
 
 <details>
 <summary> <b>Show Answer</b></summary>
@@ -513,10 +515,11 @@ Here,
 - Routing guards used to protect the routes.
 - Routing guards used to check whether the user should grant or remove access to certain parts of the navigation.
 - There are 4 different interfaces act as routing guards:
-	- CanActivate - decides if the route can be activated.
-        - CanActivateChild- decides if children of a route can be activated.
-	- CanLoad- decides if a route can be loaded.
-	- CanDeactivate- decides if the user can leave a route.
+
+	- `CanActivate `- decides if the route can be activated.
+        - `CanActivateChild`- decides if children of a route can be activated.
+	- `CanLoad`- decides if a route can be loaded.
+	- `CanDeactivate`- decides if the user can leave a route.
 
 
 
