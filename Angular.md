@@ -45,20 +45,25 @@
 - Inside the build section, the main property of the options object defines the entry point of the application which in this case is `main.ts`.
 - `main.ts` is the entry point of the angular application. 
 - The `main.ts` file creates a browser environment for the application to run, and, along with this, it also calls a function called bootstrapModule, which bootstraps the application. These two steps are performed in the following order inside the `main.ts` file:
- ![image](https://user-images.githubusercontent.com/103101208/185569651-35a2ba9f-73fc-43c6-8548-0a24daac640b.png)
+	
+![image](https://user-images.githubusercontent.com/103101208/185569651-35a2ba9f-73fc-43c6-8548-0a24daac640b.png)
 - In the above line of code, `AppModule` is getting bootstrapped.
 - The `AppModule` is declared in the `app.module.ts` file. This module contains declarations of all the components.
 - Below is an example of `app.module.ts` file:
+	
 ![image](https://user-images.githubusercontent.com/103101208/185569778-9ff0d34a-b0e2-4701-a1db-21919ebd3ad7.png)
+	
 - As one can see in the above file, `AppComponent` is getting bootstrapped.
 - This component is defined in `app.component.ts` file. This file interacts with the webpage and serves data to it.
 - Below is an example of `app.component.ts` file:
   
-  ![image](https://user-images.githubusercontent.com/103101208/185569886-8ca076a7-6633-4d61-beb5-0d673014b347.png)
+ ![image](https://user-images.githubusercontent.com/103101208/185569886-8ca076a7-6633-4d61-beb5-0d673014b347.png)
 
 - After this, Angular calls the `index.html` file. This file consequently calls the root component that is `app-root`. 
 - This is how the `index.html` file looks:
+	
 ![image](https://user-images.githubusercontent.com/103101208/185569990-6c67e5b0-d9a6-4340-b2f0-dcd9a9f738c5.png)
+	
 - The HTML template of the root component is displayed inside the `<app-root>` tags.
 - This is how every angular application works. Or This is how angular application get bootstrapped
 
@@ -75,7 +80,7 @@
     
 - Components are the basic building blocks in the Angular application. Components contain the data & UI logic that defines the view and behavior of the web application.
     
- ![image](https://user-images.githubusercontent.com/103101208/185570645-2ab168d8-9c3d-4447-a403-703222cf7814.png)
+![image](https://user-images.githubusercontent.com/103101208/185570645-2ab168d8-9c3d-4447-a403-703222cf7814.png)
 
   </blockquote>
 
@@ -102,11 +107,10 @@
 - `ngAfterViewInit()` - Invoked after Angular initializes the component's views and its child views.
 - `ngAfterViewChecked()` - Invoked after each time Angular checks for the content projected into the component. It called after `ngAfterViewInit()` and every subsequent `ngAfterContentChecked()`
 - `ngOnDestroy()` - Invoked before Angular destroys the directive or component.
+	
 ![image](https://user-images.githubusercontent.com/103101208/185571059-270e2558-e7f9-48e9-8023-3cb594a8d780.png)
 
-  ![image](https://user-images.githubusercontent.com/103101208/185581357-0f6f857b-7e47-4acc-98f4-b992a5b02f55.png)
 
-![image](https://user-images.githubusercontent.com/103101208/185581380-9958f808-b37a-4cad-87c9-67ebb163a03c.png)
 
 </blockquote>  
 
@@ -424,6 +428,7 @@ Here,
 - They are 1 way databinding and 2-way databinding
 
 ![image](https://user-images.githubusercontent.com/103101208/185592479-3570b8c1-3fc1-4d06-8328-9c266186a2d3.png)
+	
 ![image](https://user-images.githubusercontent.com/103101208/185592494-637eb0ae-7610-40e8-874d-bd179e2ab16f.png)
 
 
@@ -587,6 +592,7 @@ Here,
 
 - @Input decorator used to pass the data from a parent to a child component
 - @Output decorator used to pass the data from a child to a parent component
+	
 ![image](https://user-images.githubusercontent.com/103101208/185594174-ec042de2-81dd-425b-bc8e-8c26ae214f1b.png)
 
 - Consider we have `AppComponent` as Parent. Let’s create a child component using `ng g c child` command. We’ll pass the data from `AppComponent` to `ChildComponent` and vice versa.
