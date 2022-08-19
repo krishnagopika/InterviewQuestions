@@ -685,12 +685,40 @@ export class UserserviceService {
    * **Currency pipe** - Used for formatting currencies
    * **Lowercase pipe** - Used for converting strings into lowercase.
    * **Uppercase pipe** - Used for converting strings into uppercase.
+	
+  ```html
+   <h2>Built-in Pipes</h2>
+<li>{{"Pipes"}} </li>
+<li>{{"Pipes" | uppercase}}</li>
+<li>{{"Pipes" | lowercase}} </li>
+<li>{{dob}}</li>
+<li>{{dob | date}}</li>
+<li>{{dob | date |uppercase }}</li>
+<li>{{17.81922 | number }}</li>
+<li>{{17.819227546354 | number: '3.4-6' }}</li>
+<li>{{17.81922 | number : '2.0-0'}}</li>
+<li>{{365778 | currency}}</li>
+<li>{{365778 | currency: 'INR'}}</li>
+<h2>Custom Pipes</h2>
+<li>{{"Pipes" |firstChar}}</li>
+<li>{{"Angular" |firstChar}}</li>
+<li>{{"great" |firstChar}}</li>
+
+```
+
+- We can create custom pipes using the `ng g pipe <pipe-name>` command in the terminal with the Angular CLI.
+- **For example**, we create a custom pipe to count words by running the `ng g pipe` firstChar command in the terminal. The CLI creates 2 files - `firstChar.pipe.spec.ts` and `firstChar.pipe.ts` under `src/app` folder and updates `the app.module.ts` file.
+- In `firstChar.pipe.ts`,
+	
+
 
 
 
 </blockquote>
 
 </details>
+
+
 
   
 
