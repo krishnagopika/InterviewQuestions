@@ -12,6 +12,8 @@
 </blockquote>
 </details>
 
+--- 
+
 2. What is meant by SPA?
 
 <details>
@@ -25,6 +27,8 @@
 
 </blockquote>
 </details>
+
+--- 
 
 3. Angular workflow or How does Angular work or bootstrapping your angular app?
 
@@ -60,6 +64,8 @@
 
   </blockquote>
 </details>
+	
+--- 
 
 4. What is a component in angular?
 <details>
@@ -75,6 +81,8 @@
 
 </details>
 
+--- 
+	
 5.	Angular Components Lifecycle or Lifecycle Hooks or LifeCycle Methods
   
 <details>
@@ -103,6 +111,8 @@
 </blockquote>  
 
 </details>
+	
+--- 
 
 6.	What are some advantages of Angular?
   
@@ -120,6 +130,8 @@
 </blockquote> 
 
 </details>
+	
+--- 
   
 7.	What are the different types of directives in Angular?
   
@@ -138,6 +150,8 @@
 </blockquote> 
 
 </details>
+	
+--- 
   
   
 8. Structural Directives in Angular?
@@ -181,10 +195,12 @@
     
 ```
     
-    
+   
 </blockquote> 
 
 </details>
+	
+--- 
   
 9. Attribute Directives in Angular?
   
@@ -216,6 +232,8 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 </blockquote> 
 
 </details>
+	
+--- 
   
 10.	Decorators in Angular?
   
@@ -234,6 +252,8 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 </blockquote> 
 
 </details>
+	
+--- 
   
 11.	Class Decorators in Angular?
   
@@ -249,6 +269,8 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 </blockquote> 
 
 </details>
+	
+--- 
   
 12. @Component Decorator.
 
@@ -270,6 +292,8 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 
 </blockquote>
 </details>
+	
+--- 
 
 13. @NgModule Decorator
 
@@ -291,6 +315,8 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 
 </blockquote>
 </details>
+	
+--- 
 
 14.	How to consume API using Angular?
 
@@ -309,6 +335,8 @@ Enter the username: <input type='text' [(ngModel)]='name'>
 
 
 </details>
+	
+--- 
 
 15.	How do you do routing?
 
@@ -361,6 +389,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 16. How do you handle dependency injection in angular?
 
@@ -381,6 +411,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 17. What are the ways of databinding in angular?
 
@@ -400,6 +432,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 18. Property Binding 
 
@@ -417,6 +451,8 @@ Here,
 
 </blockquote>
 </details>
+	
+--- 
 
 19. Event Binding
 
@@ -435,6 +471,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 20. String Interpolation
 
@@ -451,6 +489,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 
 21. What is two-way databinding in angular
@@ -472,6 +512,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 22. Difference between Angular JS and Angular 4 +
 
@@ -489,6 +531,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 23. Difference between Angular 2 and Angular 4
 
@@ -506,6 +550,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 24. How would you protect routes?
 
@@ -530,6 +576,8 @@ Here,
 </blockquote>
 
 </details>
+	
+--- 
 
 25. How would you pass data from a parent to a child component or a child to a parent component?
 
@@ -601,6 +649,8 @@ import { Component } from '@angular/core';
 </blockquote>
 
 </details>
+	
+--- 
 
 26. What are some common Angular CLI commands?
 
@@ -621,6 +671,8 @@ import { Component } from '@angular/core';
 </blockquote>
 
 </details>
+	
+--- 
 
 27. How components communicate with each other in Angular?
 
@@ -637,6 +689,8 @@ import { Component } from '@angular/core';
 
 </details>
 
+--- 
+	
 28. What are Services in angular?
 
 <details>
@@ -670,6 +724,8 @@ export class UserserviceService {
 </blockquote>
 
 </details>
+
+--- 
 
 29. What are Pipes in angular?
 
@@ -709,7 +765,25 @@ export class UserserviceService {
 - We can create custom pipes using the `ng g pipe <pipe-name>` command in the terminal with the Angular CLI.
 - **For example**, we create a custom pipe to count words by running the `ng g pipe` firstChar command in the terminal. The CLI creates 2 files - `firstChar.pipe.spec.ts` and `firstChar.pipe.ts` under `src/app` folder and updates `the app.module.ts` file.
 - In `firstChar.pipe.ts`,
-	
+
+```ts
+import { Pipe, PipeTransform } from '@angular/core';
+ 
+@Pipe({
+  name: 'firstChar'
+})
+export class FirstCharPipe implements PipeTransform {
+  transform(value: string): string {
+    return value[0];
+  }}
+
+
+```
+
+- Output:
+
+![image](https://user-images.githubusercontent.com/103101208/185601696-16d193f7-3912-4acb-b237-117173331d03.png)
+
 
 
 
@@ -717,6 +791,45 @@ export class UserserviceService {
 </blockquote>
 
 </details>
+	
+--- 
+	
+30. What is the difference between a promise and an observable?
+
+<details>
+<summary> <b>Show Answer</b></summary>
+<blockquote>
+	
+- A Promise emits a single value while Observable can emit multiple values. 
+- So, while handling a HTTP request, a Promise can manage a single response for the same request, but if there are multiple responses to the same request, then we have to use an Observable.
+	
+```ts
+const promise = new Promise((data) =>{ 
+    data(1);
+    data(2);
+    data(3);    }).then(element => console.log('Promise '+ element));
+// Logs:
+// Promise 1
+ 
+const observable = new Observable((data) => {
+    data.next(1);
+    data.next(2);
+    data.next(3);   }).subscribe(element => console.log('Observable ' + element));
+ 
+// Logs:
+//Observable 1
+//Observable 2
+//Observable 3
+	
+```
+
+	
+	
+</blockquote>
+
+</details>
+	
+
 
 
 
