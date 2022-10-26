@@ -27,3 +27,4 @@
 28. What is the best practice followed before editing the role heirarchy?
 29. Is it possible to restrict user access by adding permision sets over the profile?
 30. An object is created by the sales user who reports to sales manager, can the ceo of the org access the object?
+31. What is cascading effect in editing obj permisions?
