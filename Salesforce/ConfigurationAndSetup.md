@@ -10,3 +10,4 @@
 10. What are the scenarios where a user can not be deactivated?
 11. What is the maximun number of users that can be created at once?
 12. differntiate Login IP ranges and trusted ip ranges.
+13. What is setup audit trail?
