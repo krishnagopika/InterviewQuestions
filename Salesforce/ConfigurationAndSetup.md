@@ -34,4 +34,9 @@
 35. How to add case team into an object page layout?
 36. Who can be added as team memebr for a case team?
 37. What are the different ways to edit field level security?
-38. 
+38. "where is it used?" button functionality?
+39. What is a public group?
+40. Differentiate public group and permission set group.
+41. How to extend admin functionality to non admin users?
+42. What happens if "enable group for login access" is enabled for a delegated adminsrtation group?
+43. What are restriction rules?
