@@ -28,3 +28,10 @@
 29. Is it possible to restrict user access by adding permision sets over the profile?
 30. An object is created by the sales user who reports to sales manager, can the ceo of the org access the object?
 31. What is cascading effect in editing obj permisions?
+32. What is manual sharing and how is it different from Sharing rules?
+33. What are teams in Salesforce?
+34. How to provide team accesss?
+35. How to add case team into an object page layout?
+36. Who can be added as team memebr for a case team?
+37. What are the different ways to edit field level security?
+38. 
