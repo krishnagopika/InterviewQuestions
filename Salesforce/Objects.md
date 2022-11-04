@@ -7,4 +7,6 @@
 7. What are the advantages of using a Standard object?
 8. What is a custom object?
 9. Explain Master-detail relationship.
-10. 
+10. Explain Look-up relationship.
+11. What is the difference between lookup and master-detail?
+12. How to make a custom object visible?/ 
