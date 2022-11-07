@@ -12,4 +12,5 @@
 12. How to make a custom object visible?
 13. How to track the field history of an object?
 14. How to customize the page layout of an object?
+15. Consider a scenario where a project is in deveoplment stage and the phase of the project can be executing but not closing or designing. How can you achive this relation?
   
