@@ -9,4 +9,7 @@
 9. Explain Master-detail relationship.
 10. Explain Look-up relationship.
 11. What is the difference between lookup and master-detail?
-12. How to make a custom object visible?/ 
+12. How to make a custom object visible?
+13. How to track the field history of an object?
+14. How to customize the page layout of an object?
+  
