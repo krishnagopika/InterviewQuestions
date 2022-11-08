@@ -27,4 +27,5 @@
 27. List out sone format enforcing fields?
 28. How to choose right field dat type?
 29. List out read-only fields?
+30. How to use a formula data type?
   
