@@ -13,4 +13,18 @@
 13. How to track the field history of an object?
 14. How to customize the page layout of an object?
 15. Consider a scenario where a project is in deveoplment stage and the phase of the project can be executing but not closing or designing. How can you achive this relation?
+16. What are the different types of custom fields?
+17. What is the primary key for a record?
+18. Is record ID unique for an org?
+19. Is record ID case safe or case sensitive?
+20. Why is case safe introducted for record id?
+21. Is record ID editable?
+22. How to get record id of a record?
+23. What are different types of text fields?
+24. what is the difference between text and text Area?
+25. what is difference between text are (Long) and text area (Rich)?
+26. What is Text (Encrypted)?
+27. List out sone format enforcing fields?
+28. How to choose right field dat type?
+29. List out read-only fields?
   
