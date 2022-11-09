@@ -28,4 +28,7 @@
 28. How to choose right field dat type?
 29. List out read-only fields?
 30. How to use a formula data type?
+31. Why is the data lost while chnaging data type?
+32. How to delete and restore the fields?
+33. What is the period to restore a a deleted field in salesforce?
   
