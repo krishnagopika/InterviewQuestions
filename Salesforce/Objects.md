@@ -36,7 +36,8 @@
 36. explain the process of setting validation rule for success percentage based on the stage of the project.
 37. Is master detail relationship mainted in related lists of a child record?
 38. what are the advantages of using the list view action?
-39. explain the differend assignment levels for chnages made in page layout?
+39. explain the different assignment levels for chnages made in page layout?
 40. What is the precedence order for org, app and app, record and profile assignments?
-41. 
+41. What are the different types of related lists?
+42. 
   
