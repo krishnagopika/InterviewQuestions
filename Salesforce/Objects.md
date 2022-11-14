@@ -31,4 +31,12 @@
 31. Why is the data lost while chnaging data type?
 32. How to delete and restore the fields?
 33. What is the period to restore a a deleted field in salesforce?
+34. How to set validation rules?
+35. How to set validation rule for percentage so that the percentage doesnt exceed 100.
+36. explain the process of setting validation rule for success percentage based on the stage of the project.
+37. Is master detail relationship mainted in related lists of a child record?
+38. what are the advantages of using the list view action?
+39. explain the differend assignment levels for chnages made in page layout?
+40. What is the precedence order for org, app and app, record and profile assignments?
+41. 
   
