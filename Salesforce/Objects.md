@@ -45,4 +45,7 @@
 45.  What are the advantages of assigning ages layots to a record type?
 46.  Consider that a contruction company as different leads like designing, construction, inspection, maintainace and demolition.this criteria can be satisfied using?
 47.  Consider that there are different stages for diferent types of leads(construction site inspection, earthwork, foundation, plinth ect)( designing has surveying, budget planning, designing, approval etc). explain how this criteria can be satisfied.
+48.  How to identify the record type of record?
+49.  What is the default record type in salesforce?
+50.  Once a new record type is created, is it possible to create a new record type of type master?
   
