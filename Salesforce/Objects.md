@@ -54,5 +54,9 @@
 54.  How is an object named Project linked to an object named  case?
 55.  How is a child object created?
 56.  Explain a scenario where custom object is necesssary?
-57.  
+57.  How to create a junction object?
+58.  Explain a scenario where junction object is used?
+ or
+ Consider a resume object and oppurtunity how can on person use one resume to multiple oppurtunities and how can one opurtinity has multiple resumes ?
+ 
   
