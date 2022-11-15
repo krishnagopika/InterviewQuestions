@@ -39,5 +39,6 @@
 39. explain the different assignment levels for chnages made in page layout?
 40. What is the precedence order for org, app and app, record and profile assignments?
 41. What are the different types of related lists?
-42. 
+42. Explain the process of creating record types?
+43.  Where is Status in picklists Available for Editing by Record Type?
   
