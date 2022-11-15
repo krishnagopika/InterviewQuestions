@@ -51,4 +51,8 @@
 51.  why is it not possible to create a master record type when a custom record type is created?
 52.  How to create path for custom object?
 53.  How to add path to page layout?
+54.  How is an object named Project linked to an object named  case?
+55.  How is a child object created?
+56.  Explain a scenario where custom object is necesssary?
+57.  
   
