@@ -49,5 +49,5 @@
 49.  What is the default record type in salesforce?
 50.  Once a new record type is created, is it possible to create a new record type of type master?
 51.  why is it not possible to create a master record type when a custom record type is created?
-52.  
+52.  How to create path for custom object?
   
