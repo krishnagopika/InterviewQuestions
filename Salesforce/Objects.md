@@ -41,4 +41,8 @@
 41. What are the different types of related lists?
 42. Explain the process of creating record types?
 43.  Where is Status in picklists Available for Editing by Record Type?
+44.  What are the advantages of using record types?
+45.  What are the advantages of assigning ages layots to a record type?
+46.  Consider that a contruction company as different leads like designing, construction, inspection, maintainace and demolition.this criteria can be satisfied using?
+47.  Consider that there are different stages for diferent types of leads(construction site inspection, earthwork, foundation, plinth ect)( designing has surveying, budget planning, designing, approval etc). explain how this criteria can be satisfied.
   
