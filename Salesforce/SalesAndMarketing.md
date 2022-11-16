@@ -30,4 +30,5 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 25. Explain the relation among pricebook, opportunity, product, opportunity product and price book details?
 26. How to do product scheduling done?
 27. Consider a scenario where 12 laptops are ordered by a company and are supposed to be delivered in required quntity in scheduled dates. How is this use case performed?
+28. 
 
