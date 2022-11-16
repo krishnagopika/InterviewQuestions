@@ -19,5 +19,9 @@ or what is activity history?
 15. Consider a scenario where a comany named revature has a form that can be filled by interested people to join the training, how is this process designed in salesforce
 Hint: form is a web element and any one who fills the forms is considered as a lead.
 16. What happends to a lead who is campaign meber when the lead is converted?
+17. Consider a scenario where a campaign called West benagal radio is created which is a part of East India campaign, which is a part of India campaign and which is a part of Asia campaign. What is used to implement this use case?
+18. What is the relationship between an Account and an Opportunity?
+19. How is the expected revenue calculated for an opportunity?
+20. 
 
 
