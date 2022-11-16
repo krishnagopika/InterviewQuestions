@@ -24,6 +24,8 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 19. How is the expected revenue calculated for an opportunity?
 20. Is it possible to edit the stages of an oppurtunity in sales process or record types?
 21. How to edit stages of an opportunity?
-22. 
-
+22. Is it possible to add products that belong to multiple price books to a single opportunity?
+23. What is the relationship between opportunity and product?
+24. What is the relationship between Price book and Product?
+25. Explain the relation among pricebook, opportunity, product, opportunity product and price book details?
 
