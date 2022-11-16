@@ -16,4 +16,6 @@ or what is activity history?
 12. Which object acs as a junction object between (the lead, the contact) and the campaign object?
 13. which mapping is done explicity Stsnadard to standard field mapping or custom to custom field mapping?
 14. How is custom to custom field mapping done?
-15. 
+15. Consider a scenario where a comany named revature has a form that can be filled by interested people to join the training, how is this process designed in salesforce
+
+Hint: form is a web element and any one who fills the forms is considered as a lead.
