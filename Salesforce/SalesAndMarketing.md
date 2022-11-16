@@ -22,6 +22,5 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 17. Consider a scenario where a campaign called West benagal radio is created which is a part of East India campaign, which is a part of India campaign and which is a part of Asia campaign. What is used to implement this use case?
 18. What is the relationship between an Account and an Opportunity?
 19. How is the expected revenue calculated for an opportunity?
-20. 
 
 
