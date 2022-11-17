@@ -30,5 +30,13 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 25. Explain the relation among pricebook, opportunity, product, opportunity product and price book details?
 26. How to do product scheduling done?
 27. Consider a scenario where 12 laptops are ordered by a company and are supposed to be delivered in required quntity in scheduled dates. How is this use case performed?
-28. 
+28. What is forecasting?
+29. Jules is manager of reston branch but she has to take one week leave, How can jules make sure that that her forecasts are managed when she is on leave?
+30. What is quota?
+31. How is Quota displayed next to Forecast?
+32. How to enabke adjustments for forecasts?
+33. Are any adjustments made on forecasts reflected on amount and closedates?
+34. what is cumulative forecast rollup?
+35. what is forecast herirarchy?
+
 
