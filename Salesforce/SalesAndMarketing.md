@@ -42,6 +42,6 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 37. What is campaign influence ?
 38. How to automatically assign leads to the campaign influence?
 39. How to create a campaign incluence model?
-40. 
-
+40. To attain optimised and effective marketing, how can an organization understnad which lead is influenced by which campaign and which campaign is hoghly effective?
+41. 
 
