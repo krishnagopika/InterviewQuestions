@@ -38,5 +38,10 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 33. Are any adjustments made on forecasts reflected on amount and closedates?
 34. what is cumulative forecast rollup?
 35. what is forecast herirarchy?
+36. How to add campaign infulence related list?
+37. What is campaign influence ?
+38. How to automatically assign leads to the campaign influence?
+39. How to create a campaign incluence model?
+40. 
 
 
