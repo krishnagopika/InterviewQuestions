@@ -44,4 +44,5 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 39. How to create a campaign incluence model?
 40. To attain optimised and effective marketing, how can an organization understnad which lead is influenced by which campaign and which campaign is hoghly effective?
 41. How to add campain influence related list to the opportunity page layout and influenced opportunities in campaign page layout?
+42. Explain the process of creating a lightning app.
 
