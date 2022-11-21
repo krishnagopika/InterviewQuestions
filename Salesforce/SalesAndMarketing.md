@@ -47,4 +47,5 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 42. Explain the process of creating a lightning app.
 43. How to add notes to a custom app?
 44. What are contact roles?
+45. What are similar opportunities and how to enable them?
 
