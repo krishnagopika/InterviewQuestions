@@ -48,4 +48,9 @@ Hint: form is a web element and any one who fills the forms is considered as a l
 43. How to add notes to a custom app?
 44. What are contact roles?
 45. What are similar opportunities and how to enable them?
+46. What is einstein lead scoring and opportunity scoring?
+47. What is the use of home page assistant?
+48. What are content packs?
+49. what is salesforce CRM contnet?
+50. How to  create a public link to share a file stored in a salesforce org?
 
