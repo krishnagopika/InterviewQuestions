@@ -10,7 +10,8 @@
 10. What are case auto reponse rules?
 11. What are escalation rules?
 12. Consider that a client reported an issue using the web page, how do you register that case and send the response to the user?
-13. 
+13. What is case escalation?
+14. For some reason one of your support member forgets to address a case and he is in leave for the next 2 days, after a while the case is escalated, as an admin how would you resolve this issue?
 
 
 
