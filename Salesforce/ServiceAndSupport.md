@@ -9,6 +9,8 @@
 9. What is case queue?
 10. What are case auto reponse rules?
 11. What are escalation rules?
+12. Consider that a client reported an issue using the web page, how do you register that case and send the response to the user?
+13. 
 
 
 
