@@ -13,6 +13,8 @@
 13. What is case escalation?
 14. For some reason one of your support member forgets to address a case and he is in leave for the next 2 days, after a while the case is escalated, as an admin how would you resolve this issue?
 15. How to enable surveys?
+16. What is close case button?
+17. How to create a close case button for lightning?
 
 
 
