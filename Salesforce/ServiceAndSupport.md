@@ -15,6 +15,13 @@
 15. How to enable surveys?
 16. What is close case button?
 17. How to create a close case button for lightning?
+18. What is email to case?
+19. How to create a site for digital experience?
+20. Airtel broadband has basic configuration process which can be done by anyone who can read the guide, as an admin how do you create a support article for this process?
+21. What are crease teams?
+22. what is omni channel
+23. How to create a chat service in salesforce?
+24. How to handle the chat service when your support team is offile?
 
 
 
