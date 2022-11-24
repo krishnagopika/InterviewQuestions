@@ -19,4 +19,7 @@
 19. What is upsert?
 20. how do you update the data if the coloumn names in update file doesnt match the field names?
 21. how do you update the data if the coloumn names in update file match the field names?
-22. 
+22. How can i reuse the custom mapping ?
+23. How many records are updated per one go in data import wizard?
+24. What is DataLoader.io and how is it different from Data Loader?
+25. How do ypu ensure the quality of data imports?
