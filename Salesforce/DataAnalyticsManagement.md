@@ -13,6 +13,10 @@
 13. which option is used to export all records of an object including the records in the recycle bin?
 14. What is SOQl query?
 15. How do you export only deleted records?
-16. 
-17. 
-18. 
+16. How to turn on hard delete?
+17. How do you update records using data loader?
+18. What is hard delete and how is it different from delete?
+19. What is upsert?
+20. how do you update the data if the coloumn names in update file doesnt match the field names?
+21. how do you update the data if the coloumn names in update file match the field names?
+22. 
