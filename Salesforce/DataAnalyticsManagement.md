@@ -31,4 +31,6 @@
 31. What is alert and report in duplicate ruels?
 32. What happens when reports are enabled in duplicate rules?
 33. What are duplicte record sets?
-34. 
+34. What is potentential duplicate lightning component?
+35. Is potential duplicate lightnin lightning component available for custom objects?
+36. 
