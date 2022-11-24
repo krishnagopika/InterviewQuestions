@@ -15,4 +15,13 @@
 15. Who can be a part of chatter groups?
 16. How to add a post to chatter groups using email?
 17. What is slack and how does it affect the future of salesforce collaboration?
-18. 
+18. explain salesforce app navigation?
+19. explain app notification and brandiing?
+20. explain app offline settings?
+21. How to create a launchpad in salesforce?
+22. What are global actions?
+23. What is salesforce app exchnage?
+24. What is bolt solution?
+25. How can you uninstall a salesforce app exchnage app?
+26. Is it posiible to edit functioalities of an app installed via appexchnage?
+27. How do you integrate outlook and gamil to salesforce?
