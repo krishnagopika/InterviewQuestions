@@ -23,3 +23,12 @@
 23. How many records are updated per one go in data import wizard?
 24. What is DataLoader.io and how is it different from Data Loader?
 25. How do ypu ensure the quality of data imports?
+26. How to avoid inserting duplicate records?
+27. How do sharing rules affect duplicate records?
+28. What are matching rules?
+29. Difference between exact and fuzzy matching between records?
+30. Can you allow someone to insert duplicate records?
+31. What is alert and report in duplicate ruels?
+32. What happens when reports are enabled in duplicate rules?
+33. What are duplicte record sets?
+34. 
