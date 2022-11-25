@@ -40,5 +40,7 @@
 40. Which report is a combination of multiple reports? 
 41. How can you create a categorization coloumn based on the ranges?
 42. What is the difference between summary fomulaa and row level formula?
-43. 
-44. 
+43. What is the use of history report?
+44. How do you filter accounts without an opportunity record?
+45. How do you create custom reports?
+46. 
