@@ -32,5 +32,10 @@
 32. What happens when reports are enabled in duplicate rules?
 33. What are duplicte record sets?
 34. What is potentential duplicate lightning component?
-35. Is potential duplicate lightnin lightning component available for custom objects?
-36. 
+35. Is potential duplicate lightning component available for custom objects?
+36. Which report is used for lists?
+37. Which report is used for heirarchial lists?
+38. Which report is used for for summarizing using both rows and columns?
+39. Matrix reports withput atleast one row and one column are categorized as summary reports (true or false).
+40. Which report is a combination of multiple reports? 
+41. 
