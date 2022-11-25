@@ -38,4 +38,7 @@
 38. Which report is used for for summarizing using both rows and columns?
 39. Matrix reports withput atleast one row and one column are categorized as summary reports (true or false).
 40. Which report is a combination of multiple reports? 
-41. 
+41. How can you create a categorization coloumn based on the ranges?
+42. What is the difference between summary fomulaa and row level formula?
+43. 
+44. 
