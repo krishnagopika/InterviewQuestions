@@ -43,4 +43,12 @@
 43. What is the use of history report?
 44. How do you filter accounts without an opportunity record?
 45. How do you create custom reports?
-46. 
+46. What is hostorical report trending?
+47. How are dashboards created?
+48. What is reporting snapshots?
+49. If a reprot is shared to a group of users will it be same for all the users?
+50. What are dynamic dashboards?
+51. Is it possible to highlights fields in a dashboard?
+52. How can you subscribe to a dashboard or report?
+53. How do you filter a dashboard ?
+54. How do you add a specific dashboard to home page of a specific app? 
